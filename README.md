@@ -21,9 +21,6 @@ npm i react-router-dom
 
 and check the package.json file for the missing dependencies if something is not running.
 
-
-
-
 ```
 
 ## Thanks and Good Luck!
