@@ -2,7 +2,7 @@
 
 
 
-![image](https://i.stack.imgur.com/kyKz5.png)
+![image](https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/photo-1619410283995-43d9134e7656.jpeg)
 
 
 If you need to create some project on React you can use this template.
