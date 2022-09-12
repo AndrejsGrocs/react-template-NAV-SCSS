@@ -1,0 +1,1 @@
+# React Template Project with created navigation and some scss files to the pages.
