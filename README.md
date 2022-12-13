@@ -1,6 +1,8 @@
-# React Template Project with created navigation and some scss files to the pages.
+
 
 ![My Image](react-nav-project.jpg)
+
+# React Template Project with created navigation and some scss files to the pages.
 
 
 If you need to create some project on React you can use this template.
