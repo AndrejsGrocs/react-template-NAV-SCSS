@@ -2,7 +2,7 @@
 
 
 
-![image](../react-template-NAV-SCSS/react-nav-project.jpg)
+![plot](../react-template-NAV-SCSS/react-nav-project.jpg)
 
 
 If you need to create some project on React you can use this template.
