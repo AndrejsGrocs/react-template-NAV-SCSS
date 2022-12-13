@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-between;
     padding: 0.5rem;
-    background-color: rgb(84, 180, 121);
+    background-color: #B6E696;
     align-items: center;
     color: rgb(70, 70, 70);
     z-index: 2;
@@ -22,7 +22,7 @@
 }
 
 .nav-list{
-    background-color: rgb(84, 180, 121);
+    background-color: #B6E696;
     justify-content: center;
     align-items: center;
     height: 80px;
@@ -35,7 +35,7 @@
 }
 
 li a {
-    
+    font-size: 20px;
     text-decoration: none;
     color: #2a3d4f;
     padding: 10px;
@@ -43,11 +43,7 @@ li a {
   }
 
 
-  .nav-logo{
-    margin-right: 100px;
-    width: 50px;
-    background-color: rgb(84, 180, 121);
-  }
+
 
   .nav-logo-img{
     width: 70px;
@@ -59,13 +55,13 @@ li a {
     flex-direction: row;
     justify-content: center;
     width: 15%;
-    background-color: rgb(84, 180, 121);
+    background-color: #B6E696;
   }
 
   .sm-section{
     
     width: 15%;
-    background-color: rgb(84, 180, 121);
+    background-color: #B6E696;
     display: flex;
     flex-direction: row;
     justify-content: center;

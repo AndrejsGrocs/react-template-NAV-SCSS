@@ -2,12 +2,12 @@
 
 
 
-![image](https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/photo-1619410283995-43d9134e7656.jpeg)
+![image](../react-template-NAV-SCSS/src/img/react-nav-project.jpg)
 
 
 If you need to create some project on React you can use this template.
-The template contains a Navigation menu linked to the pages implemented with 
-React Navigation Routing.
+The template contains a Navigation menu linked to the pages implemented with React Navigation Routing.
+Also, some scss classes are prepared for use.
 
 
 

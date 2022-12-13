@@ -7,7 +7,7 @@ export default function Landing() {
         
           <div>
             <div className='landing-body'>
-            <h1>The main page of your project</h1>
+            <h1 className='lp-h1'>The main page of your project</h1>
            
         
           </div>
