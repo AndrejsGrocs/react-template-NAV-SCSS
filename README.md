@@ -10,7 +10,7 @@ The template contains a Navigation menu linked to the pages implemented with
 React Navigation Routing.
 
 
-Updating
+
 
 
 
